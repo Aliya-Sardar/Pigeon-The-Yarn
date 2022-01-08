@@ -1,0 +1,27 @@
+/* CSS for sign in page*/
+.signin-container
+{
+    width: 380px;
+    height: 400px;
+    background-color: white;
+    box-shadow: 10px 10px 10px #aaaaaa;
+    border: 1px solid #D9D9D9;
+}
+
+.form-container
+{
+    margin: 20px ;
+}
+
+
+
+
+/* CSS for sign up page*/
+.signup-container
+{
+    width: 400px;
+    height: 500px;
+    background-color: white;
+    box-shadow: 10px 10px 10px #aaaaaa;
+    border: 1px solid #D9D9D9;
+}

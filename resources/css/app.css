@@ -1,0 +1,62 @@
+
+/* Import google fonts Margarine*/
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@1,300&family=Spline+Sans:wght@300&display=swap');
+
+
+/* Css for the template */
+
+.body
+{
+    background-color: #FEF0EC;
+}
+
+.header-bg
+{
+    background-color: #C8A9A7;
+}
+
+.footer-bg
+{
+    margin-top: 20px;
+    padding-top:10px ;
+    padding-bottom: 20px;
+    background-color: black;
+    color: white;
+    clear: both;        /* Makes the footer stay below the floated items */
+}
+
+
+
+/* General CSS */
+.div-Content
+{
+    margin-top: 50px;
+}
+
+h1 , h2 ,h3 ,h4, a
+{
+    font-family: 'Spline Sans', sans-serif !important;
+}
+
+p
+{
+    font-family: 'Rubik', sans-serif !important;
+}
+
+.para
+{
+    text-indent: 50px;
+    font-size: 18px;
+    text-align: justify;
+}
+
+textarea 
+{
+    resize: none !important; 
+}
+
+
+
+
+
+
